@@ -36,13 +36,18 @@ Edit this document to include your answers after each question. Make sure to lea
 It is the building block of html. It is the pieces to the puzzle and you need to put those together first then you can make it look nice.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Display block take as much space as you let them. Block allows you to set width and height unlike inline. 
 
 
 3. What are the 4 areas of the box model?
+padding, margin, border, content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+aligns content on cross-axis
+
 
 5. Explain why git is valuable to a team of developers.
+It is easy to colaborate and more importantly, they can revert to a different version if a patch goofs the project. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

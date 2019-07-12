@@ -211,6 +211,15 @@ footer nav a {
     
 }
 
+.top-part-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    /* border:1px solid red; */
+    /* border-bottom: 1px dashed black; */
+}
+
 .about-top {
     justify-content: left;
     margin-bottom: 25px;
@@ -240,5 +249,14 @@ footer nav a {
     width: 46.5%;
     /* border:1px solid red; */
 }
+
+button {
+    margin: 10px 0;
+    background: white;
+    border-radius: 6px;
+    padding: 3px;
+    border: 2px solid black;
+
+    }
 
 

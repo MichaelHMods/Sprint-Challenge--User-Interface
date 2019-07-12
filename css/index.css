@@ -54,8 +54,8 @@ table {
 header{
     /* border: 1px solid red; */
     height: 40px;
-    width: 60%;
-    margin-left: 200px;
+    width: 75%;
+    margin-left: 130px;
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
@@ -70,9 +70,9 @@ header nav a{
 
 }
 
-.indextop {
-    width: 60%;
-    margin-left: 200px;
+.indextoppic {
+    width: 75%;
+    margin-left: 140px;
     margin-top: 40px;
     margin-bottom: 40px;
 }
@@ -203,24 +203,25 @@ footer nav a {
 /* about specific css below*/
 
 .jumboabout {
-    width: 60%;
-    margin-left: 200px;
-    margin-top: 50px;
-    margin-bottom: 40px;
-    border: 1px solid red;
-
+    width: 70%;
+    margin-left: 170px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: 1px solid red; */
+    
 }
 
 .about-top {
     justify-content: left;
     margin-bottom: 25px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    border-bottom:1px dashed black;
     
 }
 
 .about-top h2{
     justify-content: left;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-right: 750px;
 
 }
